@@ -1,2 +1,2 @@
-# Oibsip
-Tasks
+# Oasis infobyte 
+Graphic design Task
